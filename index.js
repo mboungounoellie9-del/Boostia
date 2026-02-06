@@ -1,15 +1,28 @@
-function startSession() {
-  alert("Session IA BoostIA lancée (démo)");
-}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>BoostIA – L’IA accessible aux entreprises africaines</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
 
-function openDashboard() {
-  alert("Dashboard stratégique BoostIA (démo)");
-}
+<header>
+  <h1>BoostIA</h1>
+  <p>L’intelligence artificielle simplifiée pour les entreprises africaines</p>
 
-function choosePlan() {
-  alert("Sélection d’offre BoostIA (démo)");
-}
+  <a href="features.html" class="btn">Découvrir les fonctionnalités</a>
+</header>
 
-function contactUs() {
-  alert("Contact BoostIA – nous reviendrons vers vous");
-}
+<section>
+  <h2>Pourquoi BoostIA ?</h2>
+  <p>
+    BoostIA aide les entreprises à se structurer, automatiser
+    et améliorer leurs performances grâce à l’intelligence artificielle,
+    sans complexité technique.
+  </p>
+</section>
+
+<script src="js/main.js"></script>
+</body>
+</html>
